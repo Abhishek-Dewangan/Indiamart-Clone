@@ -1,0 +1,62 @@
+.help {
+  display: flex;
+  justify-content: space-between;
+  padding: 2px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.icons{
+    display: flex;
+    gap: 20px;
+}
+.link {
+  display: flex;
+  text-align: left;
+  gap: 100px;
+  line-height: 22px;
+  margin-top: 7px;
+  padding: 10px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+a {
+  text-decoration: none;
+  color: gray;
+}
+.footer {
+  width: 85%;
+  margin: auto;
+  padding: 5px;
+}
+.mainfooter {
+    margin-top: 50px;
+    width: 100%;
+  background-color: #F6F6F6;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.term {
+  display: flex;
+  padding: 7px;
+  gap: 250px;
+}
+h2 {
+  color: rgb(48, 48, 77);
+}
+#icon{
+ color: black;
+ margin-left: 5px;
+}
+#icon,#ficon,#ticon,#licon{
+  height: 25px;
+  width: 30px;
+ margin-left: 5px;
+
+}
+#ficon{
+    color: rgb(29, 0, 196);
+}
+#ticon{
+    color: rgb(70, 196, 255);
+}
+#licon{
+    color: rgb(0, 110, 255);
+}
