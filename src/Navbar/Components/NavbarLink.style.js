@@ -1,5 +1,5 @@
 export const style = {
-  width:'100%',
+  width: '100%',
   display: 'flex',
   justifyContent: 'space-between',
   backgroundColor: '#2e3192',
@@ -64,7 +64,7 @@ export const right = {
   textAlign: 'center',
   gap: '10px',
   paddingLeft: '100px',
-  margin: '5px 0 0',
+  margin: '5px 15px 0 0',
 };
 export const left = {
   margin: '5px',
@@ -84,8 +84,8 @@ export const icons = {
   color: 'gray',
 };
 export const loginButton = {
-  backgroundColor:'#2e3192',
-  border:'none',
-  color:'white',
+  backgroundColor: '#2e3192',
+  border: 'none',
+  color: 'white',
   fontSize: '13px',
-}
+};

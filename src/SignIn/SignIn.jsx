@@ -26,7 +26,7 @@ const SignIn = (props) => {
     return (
       <div className={styles.sign}>
         <div className={styles.head}>
-          <h2>Sign In</h2>
+          <h2 className={styles.heading}>Sign In</h2>
         </div>
         <div className={styles.bott}>
           <form onSubmit={handleSubmit}>
