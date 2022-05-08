@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "img":"https://www.bigbasket.com/media/uploads/p/xxl/40187210_4-maybelline-new-york-sensational-liquid-matte-lipstick-02-soft-wine.jpg",
+        "title":"Natural and Chemical free Lipstick",
+        "price":"₹450",
+        "brand":"Mavashivaa Traders"
+        
+    },
+     {
+        "id":2,
+        "img":"https://cdn.shopify.com/s/files/1/0597/9422/7350/products/renee-fab-5-matte-finish-5-in-1-lipstick-75g-901478_1024x1024.jpg?v=1644663856",
+        "title":"5 In 1 Lipstick Combination Strip Matte High Velvet",
+        "price":"₹499",
+        "brand":"Trendy Fashion Hub"
+        
+    },
+     {
+        "id":3,
+        "img":"https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNTFVdytuSk9xSEwuX1NTNDAwXy5qcGc.jpg",
+        "title":"3 Color Single Lipstick",
+        "price":"₹1450/Unit",
+        "brand":"Mavashivaa Traders"
+        
+    },
+     {
+        "id":4,
+        "img":"https://static.more.com/wp-content/uploads/migrated/vlada-1_0.gif",
+        "title":"Floral Lips",
+        "price":"₹699",
+        "brand":"Artist Space"
+        
+    },
+     {
+        "id":5,
+        "img":"https://hudabeauty.com/dw/image/v2/BCNC_PRD/on/demandware.static/-/Sites-huda-master-catalog/default/dwe1c0a571/images/sfra/HB00779M/LiquidLip1.jpg?sw=785&sh=785",
+        "title":"Hot Matte Lipstick P-Shape",
+        "price":"₹288",
+        "brand":"Aadhya Collections"
+        
+    },
+     {
+        "id":6,
+        "img":"https://m.media-amazon.com/images/I/613kZjyuHQS._SY355_.jpg",
+        "title":"Paul Pender Handmade Cream Lipstick",
+        "price":"₹650",
+        "brand":"Garima Collections"
+        
+    },
+    {
+        "id":7,
+        "img":"https://s.alicdn.com/@sc02/kf/HTB1XfaPipooBKNjSZFPq6xa2XXaE/227541693/HTB1XfaPipooBKNjSZFPq6xa2XXaE.jpg",
+        "title":"Binddas Pack of 3Lazy Lip Matte Multicolor",
+        "price":"₹599",
+        "brand":"Ghostbare.com"
+        
+    },
+    {
+        "id":8,
+        "img":"https://5.imimg.com/data5/ECOM/Default/2022/1/ZL/UC/JR/146160952/product-image-1767259349-500x500.jpg",
+        "title":"Hot Selling Velvet Lip-Gloss",
+        "price":"₹499",
+        "brand":"Zierashop"
+        
+    }
+]

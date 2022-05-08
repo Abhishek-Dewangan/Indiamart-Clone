@@ -1,0 +1,13 @@
+#Main{
+    position: absolute;
+    left: 0%;
+    width: 100%;
+    height: 670%;
+    background-color: rgb(233, 233, 233);
+}
+#Container{
+   margin: 0 auto;
+   width: 95%;
+   height: 100%;
+   background-color: rgb(255, 255, 255);
+}

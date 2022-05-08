@@ -1,0 +1,115 @@
+#route_nav{
+    margin: 0;
+    width: 75%;
+    left: 3%;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+}
+#route{
+    position: absolute;
+    margin-top: 5px;
+    left:3%;
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 30px;
+    background-color: rgb(233, 233, 233);
+    text-align: center;
+}
+#route a{
+    text-decoration: none;
+    color: black;
+}
+#home{
+    width: 100px;
+    background-color:transparent;
+    color: black;
+    font-size: medium;
+}
+#product{
+    width: 100px;
+    background-color: transparent;
+    font-size: medium;
+}
+#about{
+    width: 100px;
+    background-color: transparent;
+    font-size: medium;
+}
+#contact{
+    width: 100px;
+    background-color: transparent;
+    font-size: medium;
+}
+.active, #home:hover{
+    background-color: #8d8c8c;
+    color: white;
+}
+.active, #product:hover{
+    background-color: #8d8c8c;
+    color: white;
+}
+.active, #about:hover{
+    background-color: #8d8c8c;
+    color: white;
+}
+.active, #contact:hover{
+    background-color: #8d8c8c;
+    color: white;
+}
+#email_box{
+    position: absolute;
+    margin-top: 0px;
+    left: 75%;
+    width: 20%;
+    height: 40px;
+    text-align: center;
+    background-color: transparent;
+}
+#email_box button{
+    margin-top: 0px;
+    width: 80%;
+    height: 40px;
+    font-size: medium;
+    font-weight: bold;
+    color: white;
+    background-color: #02625a;
+    border-radius: 5px;
+}
+
+
+
+
+@media only screen and (max-width:600px){
+    #home{
+        margin-top: 3px;
+        font-size: small;
+    }
+    #product{
+        margin-top: 3px;
+        font-size: small;
+    }
+    #about{
+        margin-top: 3px;
+        font-size: small;
+    }
+    #contact{
+        margin-top: 3px;
+        font-size: small;
+    }
+    #email_box button{
+        margin-top: 5px;
+        width: 90%;
+        height: 30px;
+        font-size: xx-small;
+        font-weight: bold;
+        color: white;
+        background-color: #02625a;
+        border-radius: 5px;
+    }
+    #email_box button:hover{
+        background-color: rgb(46, 219, 219);
+    }
+}
+
