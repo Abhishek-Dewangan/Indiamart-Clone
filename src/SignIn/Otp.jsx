@@ -14,7 +14,7 @@ const Otp = (props) => {
     return (
       <div className={styles.otp_box}>
         <div className={styles.verify}>
-          <h2>Verify Your Mobile Number</h2>
+          <h2 className={styles.heading}>Verify Your Mobile Number</h2>
         </div>
         <h3 className={styles.t3}>Get Connected to Verified Sellers</h3>
         <p className={styles.t4}>
