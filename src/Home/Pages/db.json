@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "img":"https://3.imimg.com/data3/BX/CS/MY-3792183/foundation-500x500.jpg",
+        "title":"Makeup",
+        "use_1":"Foundation",
+        "use_2":"Compact",
+        "use_3":"Pan Cake Foundation"
+        
+
+    },
+    {
+        "id":2,
+        "img":"https://4.imimg.com/data4/QY/OX/GLADMIN-3792183/1-250x250.jpg",
+        "title":"Lipstick",
+        "use_1":"Baked Brick Lipstick",
+        "use_2":"Cerise Pink Lipstick",
+        "use_3":"Coral Red Lipstick"
+        
+
+    },
+    {
+        "id":3,
+        "img":"https://3.imimg.com/data3/RK/XF/MY-3792183/01-500x500.jpg",
+        "title":"Lips Products",
+        "use_1":"Lip Gloss",
+        "use_2":"Lip Stick",
+        "use_3":"Lip Liner"
+        
+
+    },
+    {
+        "id":4,
+        "img":"https://3.imimg.com/data3/NL/QG/MY-3792183/fruit-bleach-500x500.jpg",
+        "title":"Bleach Cream",
+        "use_1":"Fruit Bleach",
+        "use_2":"Gold Bleach",
+        "use_3":"Personal Bleach"
+        
+
+    },
+    {
+        "id":5,
+        "img":"https://3.imimg.com/data3/QC/FL/MY-3792183/fairness-scrub-500x500.jpg",
+        "title":"Scrubs",
+        "use_1":"Fairness Scrub",
+        "use_2":"Mix Fruit Scrub",
+        "use_3":"Facial Scrub - Walnut & Apricot"
+        
+
+    },
+    {
+        "id":6,
+        "img":"https://3.imimg.com/data3/FX/IN/MY-3792183/eye-shadow-500x500.jpg",
+        "title":"Eye Products",
+        "use_1":"Eye Shadow",
+        "use_2":"Mascara",
+        "use_3":"Eye Liner"
+        
+
+    },
+    {
+        "id":7,
+        "img":"https://3.imimg.com/data3/US/UJ/MY-3792183/lip-balm-500x500.jpg",
+        "title":"Lip Care",
+        "use_1":"Lip Guard",
+        "use_2":"Lip Balm"
+        
+        
+
+    },
+    {
+        "id":8,
+        "img":"https://3.imimg.com/data3/RI/RI/MY-3792183/01-500x500.jpg",
+        "title":"Traditional Items",
+        "use_1":"Kajal",
+        "use_2":"Sindoor"
+        
+        
+
+    }
+]

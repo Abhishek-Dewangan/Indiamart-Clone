@@ -1,0 +1,572 @@
+#slide{
+    margin: 0 auto;
+    margin-top: 1%;
+    width: 95%;
+    height: 250px;
+    background-color: red;
+}
+
+
+#about_us{
+    margin: 0 auto;
+    margin-top: 1%;
+    width: 95%;
+    height: 150px;
+    background-color: transparent;
+}
+#about_us h2{
+    text-decoration: underline;
+}
+#read_link{
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 15px;
+   
+}
+
+#features{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+    background-color: transparent;
+}
+#features img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#products{
+    margin: 0 auto;
+    margin-top: 32%;
+    width: 95%;
+    height: 850px;
+    background-color: transparent;
+}
+#product_heading{
+    text-decoration: underline;
+}
+#products_details{
+    margin: 0 auto;
+    margin-top: 1%;
+    width: 97%;
+    height: 745px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+    background-color: transparent;
+}
+#prod{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+    background-color: transparent;
+    border: 1px solid rgb(209, 208, 208);
+    border-radius: 5px;
+}
+#prod:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#prod img{
+    margin-top: 5%;
+    margin-left: 37%;
+    width: 150px;
+    height: 200px;
+}
+#prod h3{
+    margin-left: -100px;
+    margin-top: 220px;
+    color: #2d3192;
+    font-size: large;
+
+    width: 150px;
+}
+#prod h3:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+#use_1{
+    margin-left: -180px;
+    margin-top: 250px;
+    color: rgb(119, 119, 119);
+    font-size: 15px;
+    background-color: transparent;
+    
+}
+#use_2{
+    margin-left: -230px;
+    margin-top: 275px;
+    color: rgb(119, 119, 119);
+    font-size: 15px;
+}
+#use_1:hover{
+    
+    color: black;
+    cursor: pointer;
+}
+#use_2:hover{
+    
+    color: black;
+    cursor: pointer;
+}
+#details{
+    margin-left:40%;
+    margin-top:-15% ;
+    color: #02625a;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+    background-color: transparent;
+    width: 150px;
+}
+#details:hover{
+    text-decoration: underline;
+}
+#button_complete button{
+    width: 180px;
+    height: 35px;
+    color: #02625a;
+    border: 1px solid #02625a ;
+    border-radius: 3px;
+}
+#button_complete button:hover{
+    background-color: #02625a;
+    color: white;
+}
+#review{
+    margin: 0 auto;
+    margin-top: 2%;
+    width: 95%;
+    height: 500px;
+    background-color:transparent;
+}
+#review_heading{
+    text-decoration: underline;
+}
+#review_columns{
+    width: 95%;
+    height: 89%;
+    margin-left: 2.5%;
+    background-color: transparent;
+}
+#review_columns img{
+    width:100%;
+    height:100%;
+}
+#review_button{
+    margin-top: 1%;
+   
+    background-color: transparent;
+}
+#review_button button{
+    width: 150px;
+    height:30px;
+    color: #2d3192;
+    border: 1px solid rgb(175, 175, 175);
+    border-radius: 3px;
+}
+#touch_with_us{
+    margin-top: 7%;
+    width: 100%;
+    height: 40px;
+    background-color:#2d3192 ;
+}
+#touch{
+    color: white;
+}
+#details_columns{
+    margin-top: -4%;
+    width: 100%;
+    height: 500px;
+    background-color: transparent;
+}
+#company_columns{
+    margin-top: 5%;
+    width: 20%;
+    height: 300px;
+    background-color: transparent;
+}
+Link:hover{
+    text-decoration: underline;
+}
+#reach_us{
+    margin-top: -103%;
+    margin-left: 130%;
+    width: 450px;
+    height: 350px;
+    background-color: transparent;
+}
+#sms_button{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+#sms_button button{
+    margin-left: 10%;
+    width: 150px;
+    height: 30px;
+}
+#address{
+    margin-top: -3%;
+    font-size: small;
+    color: rgb(119, 119, 119);
+}
+#direction{
+font-size: small;
+}
+#manager{
+    color: rgb(56, 56, 56);
+}
+#call{
+    color: rgb(56, 56, 56);
+}
+#connect{
+    font-size: small;
+}
+#sms{
+    background-color: #02625a;
+    color: white;
+    border-radius: 5px;
+}
+#emails{
+    background-color: white;
+    color: #02625a;
+    border-radius: 5px;
+}
+#details_requirment{
+    margin-top: -25.75%;
+    margin-left: 67%;
+    width: 375px;
+    height: 450px;
+    background-color: transparent;
+}
+#requirment_box{
+width: 300px;
+height: 120px;
+border-radius: 10px;
+}
+#submit_require{
+    margin-top: 5%;
+    width: 150px;
+    height: 30px;
+    border-radius: 7px;
+    background-color: #02625a;
+    color: white;
+}
+
+#leave{
+    color: #2d3192;
+}
+#ship_products{
+    margin-top: 35%;
+    width: 100%;
+    height: 40px;
+    background-color:transparent
+}
+#ship_products_details{
+background-color: transparent;
+    display:grid ;
+    grid-template-columns: repeat(8,1fr);
+    grid-gap:5px;
+    margin-top: 0%;
+}
+#ship{
+    background-color: transparent;
+    height: 260px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+
+}
+#ship img{
+    margin-top: 2%;
+    width: 80%;
+    height: 120px;
+    
+}
+#ship h6{
+    margin-top: -4%;
+    font-size: 10px;
+}
+#ship  button{
+    margin-top: -15%;
+    width: 50%;
+    border-radius: 10px;
+    background-color: #02625a;
+}
+#quotes_requirement{
+    margin-top: 30%;
+    margin-left: 10%;
+    width: 500px;
+    height: 300px;
+    background-color: blue;
+}
+#quotes_requirement label{
+font-size: smaller;
+margin:0 auto
+}
+#cosmetics_beauty{
+    border-radius: 5px;
+    width: 300px;
+    height: 20px;
+}
+
+#related_heading{
+    margin-top: 30%;
+}
+#related_details{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20px;
+    height: 300px;
+    background-color: transparent;
+}
+#relates{
+    border: 1px solid rgb(216, 216, 216);
+}
+#relates img{
+    margin-top: 2%;
+    width: 50%;
+    height: 120px;
+    border: 1px solid rgb(216, 216, 216);
+}
+#relates h4{
+    color: #2d3192;
+}
+#relates h4:hover{
+    text-decoration: underline;
+}
+#relates p{
+    font-size: x-small
+}
+#relates button{
+    height: 30px;
+    width: 170px;
+    background-color: #02625a;
+    color: white;
+    border-radius: 2px;
+}
+#related_category{
+    margin-top: 6%;
+    width: 100%;
+    height: 50px;
+    background-color: transparent;
+}
+#related_category_details{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 20px;
+    height: 160px;
+}
+#related_category_details img{
+    margin-left: -65%;
+    margin-top: 0%;
+    width: 35%;
+    height: 134px;
+    border:  1px solid rgb(177, 177, 177);
+}
+#relates_cate{
+   
+    height: 135px;
+    background-color: transparent;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#relates_cate h4{
+    margin-top: -25%;
+    margin-left: 17%;
+    font-size: 16px;
+}
+#relates_cate h4:hover{
+    color: #02625a;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:600px){
+    #slide{
+        display:none;
+    }
+    #about_us h2{
+        font-size: small;
+    }
+    #about_text{
+        font-size: 10px;
+    }#read_link{
+        margin-top: 1%;
+        font-size: x-small;
+    }
+   #features{
+       display: none;
+   }
+   #products{
+    margin: 0 auto;
+    margin-top: 1%;
+    width: 95%;
+    height: 2150px;
+    background-color: transparent;
+
+   }
+   #products h2{
+       font-size: small;
+   }
+   #products_details{
+    margin: 0 auto;
+    margin-top: 1%;
+    width: 97%;
+    height: 2115px;
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    
+    background-color: transparent;
+   }
+   #prod{
+    display: grid;
+    width: 60%;
+    margin-left: 20%;
+    height: 100%;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+    background-color: transparent;
+    border: 1px solid rgb(209, 208, 208);
+    border-radius: 5px;
+   }
+   #prod img{
+    margin-top: 10%;
+    margin-left: 40%;
+    width: 120px;
+    height: 140px;
+   }
+   #prod h3{
+    margin-left: -115px;
+    margin-top: 170px;
+    color: #2d3192;
+    font-size: medium;
+   }
+   #use_1{
+    margin-left: -180px;
+    margin-top: 200px;
+    color: rgb(119, 119, 119);
+    font-size: 12px;
+   }
+   #use_2{
+    margin-left: -215px;
+    margin-top: 215px;
+    color: rgb(119, 119, 119);
+    font-size: 12px;
+   }
+   #details{
+    margin-left:30%;
+    margin-top:-15% ;
+    color: #02625a;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14px;
+    background-color: transparent;
+    width: 150px; 
+   }
+   #button_complete button{
+       margin-top: 1%;
+    width: 130px;
+    height: 25px;
+    color: #02625a;
+    border: 1px solid #02625a ;
+    border-radius: 3px;
+    font-size: 10px;
+   }
+   #review{
+    margin: 0 auto;
+    margin-top: 4%;
+    width: 95%;
+    height: 200px;
+    background-color:transparent;
+   }
+   #review_heading h2{
+       font-size: small;
+       margin-top: 15%;
+   }
+   #review_button{
+       margin-top: 5%;
+   }
+   #review_button button{
+    width: 150px;
+    height:20px;
+    color: #2d3192;
+    border: 1px solid rgb(175, 175, 175);
+    border-radius: 3px;
+   }
+   #touch_with_us{
+    display: none;
+   }
+   #ship_products{
+       margin-top: 15%;
+       font-size: small;
+   }
+   #ship_products_heading{
+       font-size: small;
+   }
+   #ship_products_details{
+    background-color: transparent;
+    display:grid ;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap:5px;
+    margin-top: 0%;
+
+   }
+   #ship{
+    background-color: transparent;
+    height: 180px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+   }
+   #ship img{
+    margin-top: 2%;
+    width: 80%;
+    height: 80px;
+   }
+   #ship h6{
+    margin-top: -3%;
+    font-size: 7px;
+}
+#ship  button{
+    margin-top: -18%;
+    width: 90%;
+    border-radius: 10px;
+    background-color: #02625a;
+}
+#related{
+    display: none;
+}#related_category{
+    margin-top: 90%;
+    background-color: transparent;
+    font-size: small;
+}
+#heading_cate{
+
+    color: #2d3192;
+    
+}
+#related_category_details{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20px;
+    height: 40px;
+}
+#related_category_details img{
+    margin-left: 0%;
+    margin-top: 0%;
+
+    width: 100%;
+    
+    border:  1px solid rgb(177, 177, 177);
+}
+}

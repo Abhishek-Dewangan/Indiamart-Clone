@@ -1,0 +1,38 @@
+[
+    {
+        "id":1,
+        "img":"https://4.imimg.com/data4/MB/UW/MY-2718105/ladies-candy-lipstick-250x250.jpg",
+        "title":"Ladies Candy Lipstick",
+        "price":"Rs 90/Piece",
+        "brand":"Shivani Cosmetics",
+        "place":"Daya Basti, Delhi, India",
+        "number":"Call 08046065670"
+    },
+    {
+        "id":2,
+        "img":"https://5.imimg.com/data5/ANDROID/Default/2021/7/KJ/II/DP/55141425/product-jpeg-250x250.jpg",
+        "title":"Ladies Candy Lipstick 5in 1",
+        "price":"Rs 65/Piece",
+        "brand":"Payal Fashion Point",
+        "place":"Laxmi Nagar, Delhi, India",
+        "number":"Call 08046061860"
+    },
+    {
+        "id":3,
+        "img":"https://5.imimg.com/data5/YI/TI/EP/SELLER-29822611/nice-and-naughty-matte-lipstick-250x250.jpg",
+        "title":"Waterproof Lipstick",
+        "price":"Rs 270/Piece",
+        "brand":"Power Agrotech",
+        "place":"Civil Lines, New Delhi, Delhi, India",
+        "number":"Call 08048062860"
+    },
+    {
+        "id":4,
+        "img":"https://5.imimg.com/data5/ANDROID/Default/2022/4/JU/QD/ZN/43505564/product-jpeg-250x250.jpg",
+        "title":"Lipstick",
+        "price":"Rs 660/Piece",
+        "brand":"Sahil Trading Co.",
+        "place":"New Delhi, Delhi, India",
+        "number":"Call 08248592860"
+    }
+]
