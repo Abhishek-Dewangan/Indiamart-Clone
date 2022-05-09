@@ -11,6 +11,7 @@ import { Form } from "../Form";
 import { Suppliers } from "../Suppliers";
 import { Categories } from "../Categories";
 import { getDataL } from "./../../../Redux/action";
+import { Main } from "./ProductsAndServices";
 
 const Upper = styled.div`
   display: flex;
@@ -37,7 +38,7 @@ export const LipGloss = () => {
   }, []);
   console.log(data);
   return (
-    <div>
+    <Main>
       <Upper>
         <Sidebar label={"ldata"}/>
         <RightBar label={"ldata"}/>
@@ -49,6 +50,6 @@ export const LipGloss = () => {
       <Form />
       <Suppliers label={"ldata"}/>
       <Categories />
-    </div>
+    </Main>
   );
 };

@@ -10,13 +10,14 @@ import { Sell } from './Components/Sell';
 import { Routes, Route } from 'react-router-dom';
 import { NoMatchFound } from './Components/NoMatchFound';
 import { InputSearched } from './Components/InputSearched';
+import { HomePageUp } from '../components/products/pages/HomePageUp';
 
 const Navbar = () => {
   return (
     <>
       <NavbarLink />
       <Routes>
-        <Route path='/' element={<Home />} />
+        <Route path='/' element={<Home/>} />
         <Route path='/inputsearched' element={<InputSearched />} />
         <Route path='/getbestprice' element={<GetBestPrice />} />
         <Route path='/imshpping' element={<IMShopping />} />
@@ -24,7 +25,7 @@ const Navbar = () => {
         <Route path='/sell' element={<Sell />} />
         <Route path='/help' element={<Help />} />
         <Route path='/messages' element={<Messages />} />
-        <Route path='*' element={<NoMatchFound />} />
+        {/* <Route path='/*' element={<NoMatchFound />} /> */}
       </Routes>
     </>
   );

@@ -8,6 +8,7 @@ import { ShipProducts } from "../ShipProducts";
 import { Form } from "../Form";
 import { Suppliers } from "../Suppliers";
 import { Categories } from "../Categories";
+import { useNavigate } from "react-router-dom";
 
 const H2 = styled.h2`
   font-size: 24px;
@@ -97,6 +98,10 @@ const P = styled.div`
     }
   }
 `;
+export const Main = styled.div`
+  width: 85%;
+  margin: auto;
+`;
 
 export const ProductsAndServices = () => {
   const dispatch = useDispatch();
@@ -115,8 +120,10 @@ export const ProductsAndServices = () => {
       .catch((e) => console.log(e));
   }, []);
 
+  const navigate = useNavigate();
+
   return (
-    <div>
+    <Main>
       <H2>Products & Services</H2>
       <Wrapper>
         <H3>Makeup</H3>
@@ -129,7 +136,7 @@ export const ProductsAndServices = () => {
         <Pdiv>
           {fdata
             ? fdata.map((e) => (
-                <div key={e.id}>
+                <div key={e.id} onClick={() => navigate("/foundation")}>
                   <div>
                     <img src={e.img} alt="" />
                   </div>
@@ -154,7 +161,7 @@ export const ProductsAndServices = () => {
         <Pdiv>
           {ldata
             ? ldata.map((e) => (
-                <div key={e.id}>
+                <div key={e.id} onClick={() => navigate("/lip-gloss")}>
                   <div>
                     <img src={e.img} alt="" />
                   </div>
@@ -400,6 +407,6 @@ export const ProductsAndServices = () => {
       <Form />
       <Suppliers label={"ldata"} />
       <Categories />
-    </div>
+    </Main>
   );
 };

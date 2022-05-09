@@ -155,7 +155,7 @@ export const NavbarLink = () => {
       </nav>
       <div>{covid && <Covid />}</div>
       <div>{help && <Help />}</div>
-      <div>{login && <Login />}</div>
+      {/* <div>{login && <Login />}</div> */}
     </>
   );
 };

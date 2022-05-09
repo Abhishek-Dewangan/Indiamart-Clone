@@ -2,7 +2,8 @@ import React from 'react';
 import './Navbar.css';
 import { Link, useNavigate } from 'react-router-dom';
 import { AiOutlineMail } from 'react-icons/ai';
-const Navbar = () => {
+import { Button } from '../../components/products/MainProducts';
+const Navbar2 = () => {
   let nav_email = useNavigate();
 
   const contact_page = () => {
@@ -13,7 +14,7 @@ const Navbar = () => {
       <div id='route_nav'>
         <div id='route'>
           <div id='home'>
-            <Link to='/home'>Home</Link>
+            <Link to='/'>Home</Link>
           </div>
           <div id='product'>
             <Link to='/products'>Products</Link>
@@ -27,14 +28,14 @@ const Navbar = () => {
         </div>
 
         <div id='email_box'>
-          <button onClick={contact_page}>
+          <Button onClick={contact_page}>
             <AiOutlineMail />
             Send Email
-          </button>
+          </Button>
         </div>
       </div>
     </>
   );
 };
 
-export default Navbar;
+export default Navbar2;

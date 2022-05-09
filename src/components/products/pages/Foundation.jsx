@@ -11,6 +11,7 @@ import { Form } from "../Form";
 import { Suppliers } from "../Suppliers";
 import { Categories } from "../Categories";
 import { getDataF } from "./../../../Redux/action";
+import { Main } from "./ProductsAndServices";
 
 const Upper = styled.div`
   display: flex;
@@ -37,7 +38,7 @@ export const Foundation = () => {
   }, []);
   console.log(data);
   return (
-    <div>
+    <Main>
       <Upper>
         <Sidebar label={"fdata"}/>
         <RightBar label={"fdata"}/>
@@ -49,6 +50,6 @@ export const Foundation = () => {
       <Form />
       <Suppliers label={"fdata"}/>
       <Categories />
-    </div>
+    </Main>
   );
 };
