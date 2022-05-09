@@ -7,7 +7,7 @@ const Wrapper = styled.div`
   margin: 20px 0 40px;
 `;
 
-const H2 = styled.h2`
+export const H2 = styled.h2`
   text-align: center;
   font-size: 26px;
   font-weight: bold;

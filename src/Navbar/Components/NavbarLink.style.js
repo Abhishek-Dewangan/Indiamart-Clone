@@ -4,6 +4,9 @@ export const style = {
   justifyContent: 'space-between',
   backgroundColor: '#2e3192',
   padding: '6px',
+  position: 'fixed',
+  top:"0",
+  zIndex: "1000",
 };
 export const link = {
   color: 'white',
