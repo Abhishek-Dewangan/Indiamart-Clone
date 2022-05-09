@@ -39,7 +39,7 @@ export const selectcity = {
   borderBottomLeftRadius: '3px',
 };
 export const search = {
-  padding: '10px 12px 12px',
+  padding: '10px 12px 11px',
   border: 'none',
   width: '250px',
   fontSize: '15px',
@@ -76,7 +76,7 @@ export const additional = {
   margin: '5px',
 };
 export const mic = {
-  padding: '10px 9px 13px 9px',
+  padding: '9px 9px 13px 9px',
   backgroundColor: 'white',
   border: 'none',
   margin: '0',
