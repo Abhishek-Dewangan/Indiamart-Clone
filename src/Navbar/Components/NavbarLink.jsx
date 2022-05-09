@@ -63,6 +63,10 @@ export const NavbarLink = () => {
             <option>All India</option>
             <option>Bilaspur</option>
             <option>Pune</option>
+            <option>Mumbai</option>
+            <option>Delhi</option>
+            <option>Kolkata</option>
+
           </select>
           <input
             placeholder='Enter products/service to search'
@@ -139,7 +143,7 @@ export const NavbarLink = () => {
               <i
                 className='fa-solid fa-user'
                 style={login ? { color: 'white' } : { color: 'gray' }}></i>
-              <p style={additional}>User</p>
+              <p style={additional} id="userName">Login</p>
             </div>
           </button>
           <Modal
@@ -155,7 +159,7 @@ export const NavbarLink = () => {
       </nav>
       <div>{covid && <Covid />}</div>
       <div>{help && <Help />}</div>
-      {/* <div>{login && <Login />}</div> */}
+      <div>{login && <Login />}</div>
     </>
   );
 };
