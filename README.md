@@ -10,7 +10,7 @@ IndiaMART is India’s largest online B2B marketplace, connecting buyers with su
 
 ### Tech Stack
 
-- HTML|CSS|JavaScript|React|Redux
+- HTML | CSS | JavaScript | React | Redux
 
 ### Library Used
 
@@ -28,30 +28,39 @@ IndiaMART is India’s largest online B2B marketplace, connecting buyers with su
 ## Wbsite Sneak Peeks
 
 - **Home Page**
+
 ![Home Page](./Sneak%20Peeks/Home.png?raw=true)
 
 - **Sign In**
+
 ![Sign In](./Sneak%20Peeks/Login.png?raw=true)
 
 - **Otp**
+
 ![Otp](./Sneak%20Peeks/Otp.png?raw=true)
 
 - **Products**
+
 ![Products](./Sneak%20Peeks/Products.png?raw=true)
 
 - **Product**
+
 ![Product](./Sneak%20Peeks/Product.png?raw=true)
 
 - **About Us**
+
 ![About Us](./Sneak%20Peeks/About.png?raw=true)
 
 - **Contact Us**
+
 ![Contact Us](./Sneak%20Peeks/Contact.png?raw=true)
 
 -**On Hover**
+
 ![On Hover](./Sneak%20Peeks/Hover.png?raw=true)
 
 - **Thankyou**
+
 ![Thankyou](./Sneak%20Peeks/Thankyou.png?raw=true)
 
 # Getting Started with Create React App
