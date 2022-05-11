@@ -25,6 +25,10 @@ IndiaMART is India’s largest online B2B marketplace, connecting buyers with su
 - [@HarshVardhan-dev](https://github.com/HarshVardhan-dev)
 - [@Sanjayan-Ganesan](https://github.com/Sanjayan-Ganesan)
 
+### Presentation
+
+[Presentation Video](https://drive.google.com/file/d/1jd3jWLAHgU-pCgQFxHeRAM2kvthXenPr/view)
+
 ### Blog
 
 [Indiamart Clone Blog](https://medium.com/@sanjayanganesan/cloning-blue-heaven-cosmetics-page-from-indiamart-website-2671b7c8463c)
