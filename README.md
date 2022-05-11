@@ -1,3 +1,59 @@
+# Indiamart Clone
+
+This collaborative project is a clone of the [Indiamart](https://www.indiamart.com/blueheavencosmetics/) website. We as a team of 5 members cloned this website during our project construction week of Unit-4 in Masai School, Bangalore.
+
+IndiaMART is India’s largest online B2B marketplace, connecting buyers with suppliers. With 60% market share of the online B2B Classified space in India, the channel focuses on providing a platform to Small & Medium Enterprises (SMEs), Large Enterprises as well as individuals. Founded in 1999, the company’s mission is ‘to make doing business easy’.
+
+## Deployed Site
+
+[Indiamart Clone](https://india-mart-clone.netlify.app/)
+
+### Tech Stack
+
+- HTML|CSS|JavaScript|React|Redux
+
+### Library Used
+
+- Material UI
+- Bootstrap CSS
+
+### Contributers
+
+- [@callmeabhi1997](https://github.com/callmeabhi1997)
+- [@adityasekharbej](https://github.com/adityasekharbej)
+- [@deshmukh612](https://github.com/deshmukh612)
+- [@HarshVardhan-dev](https://github.com/HarshVardhan-dev)
+- [@Sanjayan-Ganesan](https://github.com/Sanjayan-Ganesan)
+
+## Wbsite Sneak Peeks
+
+- **Home Page**
+![Home Page](./Sneak%20Peeks/Home.png?raw=true)
+
+- **Sign In**
+![Sign In](./Sneak%20Peeks/Login.png?raw=true)
+
+- **Otp**
+![Otp](./Sneak%20Peeks/Otp.png?raw=true)
+
+- **Products**
+![Products](./Sneak%20Peeks/Products.png?raw=true)
+
+- **Product**
+![Product](./Sneak%20Peeks/Product.png?raw=true)
+
+- **About Us**
+![About Us](./Sneak%20Peeks/About.png?raw=true)
+
+- **Contact Us**
+![Contact Us](./Sneak%20Peeks/Contact.png?raw=true)
+
+-**On Hover**
+![On Hover](./Sneak%20Peeks/Hover.png?raw=true)
+
+- **Thankyou**
+![Thankyou](./Sneak%20Peeks/Thankyou.png?raw=true)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
